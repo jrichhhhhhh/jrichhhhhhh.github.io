@@ -34,6 +34,7 @@ padding: 35px 55px;
 
 .home {
 color: #FFFFFF;
+padding: 0 5%;
 text-decoration: none;
 font-size: 0.9em;
 }
@@ -58,7 +59,7 @@ a {
     justify-content: space-between;
     text-align: left;
     padding-right: 40px;
-    padding: 0 55px;
+    padding: 0 5%;
 }
 
 
