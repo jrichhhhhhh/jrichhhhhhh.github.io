@@ -72,11 +72,12 @@ a.email {
 @media only screen and (max-width: 1080px) {
     .title {
         font-size: 16em;
+	font-family: Titillium web; 
         text-align: center;
-		margin-bottom: 68px;
-		margin-left: 200px;
-		margin-top: 20px;
-		max-height: 100%;
+	margin-bottom: 68px;
+	margin-left: 200px;
+	margin-top: 20px;
+	max-height: 100%;
     }
 }
 
@@ -86,11 +87,12 @@ a.email {
 @media only screen and (max-width: 900px) {
     .title {
         font-size: 12em;
+	font-family: Titillium web; 
         text-align: center;
-		margin-bottom: 125px;
-		margin-left: 0px;
-		margin-top: 60px;
-		max-height: 100%;
+	margin-bottom: 125px;
+	margin-left: 0px;
+	margin-top: 60px;
+	max-height: 100%;
     }
 }
 
@@ -99,10 +101,11 @@ a.email {
 @media only screen and (max-width: 480px) {
     .title {
         font-size: 8em;
+	font-family: Titillium web; 
         text-align: center;
-		margin-bottom: 182px;
-		margin-left: 0px;
-		margin-top: 100px;
-		max-height: 100%;
+	margin-bottom: 182px;
+	margin-left: 0px;
+	margin-top: 100px;
+	max-height: 100%;
     }
 }
