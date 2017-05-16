@@ -5,7 +5,7 @@ font-weight: semi-bold;
 height: 100%;
 }
 
-.title {
+.title:hover {
 color: #FFFFFF;
 font-size: 20em;
 text-align: center;
@@ -15,7 +15,7 @@ margin-top: -20px;
 max-height: 100%;
 }
 
-.strikehover:hover {
+.strikehover {
 color: #7ADDD7;
 text-decoration:line-through;
 }
